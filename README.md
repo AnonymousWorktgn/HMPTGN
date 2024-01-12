@@ -1,3 +1,5 @@
-# HMPTGN
+# Toward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space
 
-# If the paper is accepted, we will provide the online resources (code/data) of this repository.
+# This is the implementation of our paper "Toward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space", which is under review at IJCAI24.
+
+# The code base would be available after paper acception.
